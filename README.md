@@ -42,7 +42,9 @@
 git clone https://github.com/Vadzimik977/burkozel-frontend.git  
 cd burkozel-frontend  
 Устанавливаем все зависимости:  
-npm install  
+npm install
+
+Обновляем .env файл на актуальный хост бекенда. 
 
 Запускаем дев-сервер для разработки:  
 npm run dev  
