@@ -35,3 +35,24 @@
   Экран друзей и реферальной программы: приглашения, список друзей.  
 
 ---
+
+## Установка и запуск
+
+Клонируем репозиторий и переходим в папку проекта:  
+git clone https://github.com/Vadzimik977/burkozel-frontend.git  
+cd burkozel-frontend  
+Устанавливаем все зависимости:  
+npm install  
+
+Запускаем дев-сервер для разработки:  
+npm run dev  
+
+Открываем проект в браузере по адресу:  
+http://localhost:5173  
+
+Для сборки production-версии используем:  
+npm run build  
+
+Для локального просмотра production-версии:  
+npm run preview
+
